@@ -1,6 +1,6 @@
 #inlcude <stdio.h>
 
-voin initLed()
+voin initLed(void)
 {
         return;
 }
